@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+nodejs_jwt_auth/node_modules
+nodejs_jwt_auth/.env
+nodejs_jwt_auth/logs
 
 # testing
 /coverage
